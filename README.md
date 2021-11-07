@@ -23,6 +23,13 @@
 
 3) Nejlepší je asi zbrazení touto cestou: https://raw.githack.com/JirkaZelenka/Sankey-Diagram/main/figure_188.html
 
+## TBD:
+* zobrazit spolu s abs. hodnotami i procenta 
+
+* Datumy nastavovat jako kombinace dvou tlačítek, nebo tlačítko + slider (ale hodnoty pořád musí být předpočítané pro všechny kombinace)
+
+* Napojení na databáze
+
 ## Užitečné odkazy:
 
 https://plotly.com/python/sankey-diagram/     # pozice nodů
