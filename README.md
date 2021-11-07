@@ -16,6 +16,9 @@
 5) Export grafu, propojení s JDBC, jiné...?
 6) Nice to have: Indikace, zda se mezi danými obdobími něco změnilo i když to graf nezachycuje: A (->B->) A
 
+## Output: 
+HTML file *figure_185.html*, který je potřeba otevřít přes nakolnování repository do GitHub desktop aplikace, kdoví proč nestačí stáhnout a otevřít v browseru - to mi jde jen lokálně
+
 ## Užitečné odkazy:
 
 https://plotly.com/python/sankey-diagram/     # pozice nodů
