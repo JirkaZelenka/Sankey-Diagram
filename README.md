@@ -20,6 +20,7 @@
 1) HTML file *figure_188.html*, který je potřeba otevřít přes nakolnování repository do GitHub desktop aplikace, aby byl interaktivní.
 
 Přiložené pro jistotu PNG diagramu *figure_188.png*
+
 2) Zobrazení touto cestou: https://raw.githack.com/JirkaZelenka/Sankey-Diagram/main/figure_188.html
 
 ## Užitečné odkazy:
