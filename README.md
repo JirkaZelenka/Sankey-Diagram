@@ -17,7 +17,9 @@
 6) Nice to have: Indikace, zda se mezi danými obdobími něco změnilo i když to graf nezachycuje: A (->B->) A
 
 ## Output: 
-HTML file *figure_185.html*, který je potřeba otevřít přes nakolnování repository do GitHub desktop aplikace, kdoví proč nestačí stáhnout a otevřít v browseru - to mi jde jen lokálně
+HTML file *figure_188.html*, který je potřeba otevřít přes nakolnování repository do GitHub desktop aplikace, aby byl interaktivní.
+Kdoví proč nestačí stáhnout a otevřít v browseru, což normálně jde lokálně.
+Přiložené pro jistotu PNG diagramu *figure_188.png*
 
 ## Užitečné odkazy:
 
