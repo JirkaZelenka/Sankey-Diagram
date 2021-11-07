@@ -17,11 +17,11 @@
 6) Nice to have: Indikace, zda se mezi danými obdobími něco změnilo i když to graf nezachycuje: A (->B->) A
 
 ## Output: 
-1) HTML file *figure_188.html*, který je potřeba otevřít přes nakolnování repository do GitHub desktop aplikace, aby byl interaktivní.
+1) V Jupyter notebooku se nezobrazí, proto přikládám HTML file *figure_188.html*, který je potřeba otevřít přes nakolnování repository do GitHub desktop aplikace, aby byl interaktivní.
 
-Přiložené pro jistotu PNG diagramu *figure_188.png*
+2) Totéž zároveň jako obyčejný obrázek: *figure_188.png*
 
-2) Zobrazení touto cestou: https://raw.githack.com/JirkaZelenka/Sankey-Diagram/main/figure_188.html
+3) Nejlepší je asi zbrazení touto cestou: https://raw.githack.com/JirkaZelenka/Sankey-Diagram/main/figure_188.html
 
 ## Užitečné odkazy:
 
