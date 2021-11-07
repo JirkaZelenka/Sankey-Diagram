@@ -18,7 +18,9 @@
 
 ## Output: 
 HTML file *figure_188.html*, který je potřeba otevřít přes nakolnování repository do GitHub desktop aplikace, aby byl interaktivní.
+
 Kdoví proč nestačí stáhnout a otevřít v browseru, což normálně jde lokálně.
+
 Přiložené pro jistotu PNG diagramu *figure_188.png*
 
 ## Užitečné odkazy:
